@@ -1,0 +1,16 @@
+body{width: auto; height: auto; background: white; padding: 0; margin: 0;}
+header{background: darkblue; width: auto; height: 50px; color: white; padding: 10px; margin: 0;}
+
+#header_title{align-content: center; text-align: center; padding: 10px; margin: 10px; font-size: 20px;}
+section{padding: 0px; margin: 0px; position: relative}
+#header_menu{background: white; float: right; border:  1px solid white; border-radius: 30px; padding: 0px}
+
+#intro{height: 260px; width: auto; background: silver}
+#intro_pic{position: absolute}
+#intro_text{position: relative; font-size: 20px; color: white; text-align: center; margin: auto; padding: 20px}
+
+#articles_topic{padding: 15px; color: red; background: silver;}
+
+#data_main{width: 48%; height: auto; display: inline-block; background: silver;  border-radius: 5px; margin: 1px}
+#data_pic{border-radius: 5px;}
+#data_title{font-size: 12px;}
